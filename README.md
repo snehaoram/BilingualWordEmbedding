@@ -7,4 +7,4 @@
 - Another task accomplished in this project is predicting the top-k of similar tamil words, given a word in punjabi and vice-versa.
 
   # Refernce
-  1. Rajagopal, D., Balachandran, V., Hovy, E., & Tsvetkov, Y. (2021). Selfexplain: A self-explaining architecture for neural text classifiers. arXiv preprint arXiv:2103.12279.
+  1. 
