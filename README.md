@@ -6,5 +6,5 @@
 - In order to build the bilingual word embedding, a dictionary of only 100 word pairs is made of the two languages.
 - Another task accomplished in this project is predicting the top-k of similar tamil words, given a word in punjabi and vice-versa.
 
-  # Refernce
+  # Reference
   [1] Artetxe, M., Labaka, G., & Agirre, E. (2017, July). Learning bilingual word embeddings with (almost) no bilingual data. In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 451-462). 
